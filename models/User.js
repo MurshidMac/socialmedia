@@ -8,3 +8,5 @@ const userSchema = new Schema({
 })
 
 module.exports = model('User', userSchema);
+
+// stopped at 31.22
